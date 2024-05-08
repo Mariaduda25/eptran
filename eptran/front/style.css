@@ -1,0 +1,11 @@
+body {
+    background-color: #bdb5b5; /* Altere a cor conforme necessário */
+}
+
+.quadrado {
+    width: 300px; /* Largura do quadrado */
+    height: 150px; /* Altura do quadrado */
+    background-color: green; /* Cor de fundo verde */
+    border: 2px solid white; /* Borda branca de 2px */
+}
+

@@ -9,5 +9,14 @@ body {
     background-color: green; /* Cor de fundo verde */
     border: 2px solid white; /* Borda branca de 2px */
     border-radius: 20px; /* valor do raio para arredondar os vértices */
-    text-align: center;
+    margin: 0 auto;
+}
+
+h3 {
+    color: white;
+}
+
+#cadastrar {
+    background-color: green
+    color:aliceblue
 }

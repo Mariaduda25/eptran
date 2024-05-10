@@ -18,5 +18,10 @@ h3 {
 
 #cadastrar {
     background-color: green
-    color:aliceblue
+
+}
+
+.cima{
+    background-color: rgb(11, 11, 124);
+    padding: 80px;
 }

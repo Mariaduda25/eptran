@@ -1,15 +1,20 @@
 body {
-    background-color: #bdb5b5; /* Altere a cor conforme necessário */
+    background-color: #bdb5b5;/*Cor fundo*/
     text-align: center;
 }
 
 .quadrado {
     width: 300px; /* Largura do quadrado */
     height: 300px; /* Altura do quadrado */
-    background-color: green; /* Cor de fundo verde */
+    background-color: rgb(81, 46, 163); /* Cor de fundo azul(ficou melhor) */
     border: 2px solid white; /* Borda branca de 2px */
     border-radius: 20px; /* valor do raio para arredondar os vértices */
     margin: 0 auto;
+    margin-left: 80px;
+  
+
+    /*esse aqui mexe com a placa inteira*/
+
 }
 
 h3 {
@@ -17,8 +22,9 @@ h3 {
 }
 
 #cadastrar {
-    background-color: green;
+    background-color: rgb(81, 46, 163);
     background-color: center;
+    /*esse aqui mexe apenas com a linha escrito cadastrar(login)*/
 
 }
 
@@ -32,4 +38,14 @@ h3 {
     padding: 20px;
 }
 
+section{
+    margin-left: 80px;
+}
 
+#rua{
+    margin:18px;
+    width: 120px;
+
+   
+    
+}

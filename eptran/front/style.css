@@ -17,11 +17,17 @@ h3 {
 }
 
 #cadastrar {
-    background-color: green
+    background-color: green;
+    background-color: center;
 
 }
 
 .cima{
     background-color: rgb(11, 11, 124);
-    padding: 80px;
+    padding: 20px;
+}
+
+.baixo{
+    background-color: rgb(11, 11, 124);
+    padding: 20px;
 }

@@ -33,19 +33,23 @@ h3 {
     padding: 20px;
 }
 
-.baixo{
-    background-color: rgb(11, 11, 124);
-    padding: 20px;
-}
-
 section{
     margin-left: 80px;
+    padding:30px ;
 }
 
-#rua{
-    margin:18px;
-    width: 120px;
-
-   
+#rua2{
+    margin:45px;
+    height:365px;
+    width: auto;
     
 }
+
+#logo{
+    margin-right:150px;
+    margin-top: 285px;
+    height: 100px;
+}
+
+
+

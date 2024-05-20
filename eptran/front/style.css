@@ -4,32 +4,32 @@ body {
 }
 
 .quadrado {
-    width: 300px; /* Largura do quadrado */
-    height: 300px; /* Altura do quadrado */
-    background-color: rgb(81, 46, 163); /* Cor de fundo azul(ficou melhor) */
+    width: 415px; /* Largura do quadrado */
+    height: 415px; /* Altura do quadrado */
+    background-color: rgb(119, 89, 190); /* Cor de fundo azul(ficou melhor) */
     border: 2px solid white; /* Borda branca de 2px */
     border-radius: 20px; /* valor do raio para arredondar os vértices */
     margin: 0 auto;
-    margin-left: 80px;
+    margin-left: 750px;
   
 
     /*esse aqui mexe com a placa inteira*/
 
 }
 
-h3 {
+h2 {
     color: white;
 }
 
 #cadastrar {
-    background-color: rgb(81, 46, 163);
+    background-color: rgb(119, 89, 190);
     margin-right: 50px;
     /*esse aqui mexe apenas com a linha escrito cadastrar(login)*/
 
 }
 
 .cima{
-    background-color: rgb(11, 11, 124);
+    background-color: rgb(119, 89, 190);
     padding: 20px;
 }
 
@@ -40,8 +40,8 @@ section{
 
 #rua2{
     margin:35px;
-    height: 500px;
-    width: 300px;
+    height: 300px;
+    width:1000px;
 }
 
 #logo{

@@ -1,6 +1,10 @@
 body {
     background-color: #bdb5b5;/*Cor fundo*/
     text-align: center;
+    margin: 0;
+    padding: 0;
+    width: 830px;
+    height: 2000px; 
 }
 
 .quadrado {
@@ -10,11 +14,7 @@ body {
     border: 2px solid white; /* Borda branca de 2px */
     border-radius: 20px; /* valor do raio para arredondar os vértices */
     margin: 0 auto;
-    margin-left: 750px;
-  
-
-    /*esse aqui mexe com a placa inteira*/
-
+    text-align: center;
 }
 
 h2 {
